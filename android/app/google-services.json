@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595626977559",
+    "project_id": "digitalizetransport",
+    "storage_bucket": "digitalizetransport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595626977559:android:69238fa7159faa5d166f52",
+        "android_client_info": {
+          "package_name": "com.example.digitalize_transport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwb9GFzXWcAgXMWn_OWIloxc_6B-Y0Q5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
